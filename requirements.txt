@@ -4,3 +4,4 @@ pybind11
 pandas
 scikit-learn
 statsmodels
+mpmath
